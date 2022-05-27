@@ -1,0 +1,8 @@
+"whiterp"
+{
+	"title"		"WhiteRP"
+	"base"		"base"
+	"category"	"other"
+	"maps"		"^rp_|^roleplay_|^wrp_"
+	"menusystem"	"1"
+}
